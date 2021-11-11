@@ -10,7 +10,8 @@ body {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 15px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .logo {
@@ -19,9 +20,43 @@ body {
     display: flex;
 }
 
-.right-header-links {
+.right-thin-header-links {
     font-size: 18px;
-    color: #E5E7EB;
+    color: #f9faf8d5;
     display: flex;
     gap: 20px;
+}
+
+.thick-header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.thick-header-main-text {
+    display: flex;
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.thick-header-text {
+    display: flex;
+    font-size: 18px;
+    color: #f9faf8d5;
+}
+
+.sign-up {
+    display: flex;
+    background-color: #3882F6;
+    color: #f9faf8d5;
+    border-radius: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
