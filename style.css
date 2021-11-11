@@ -27,6 +27,7 @@ body {
     gap: 20px;
 }
 
+/*probably will need to add gap to separate left and right containers*/
 .thick-header {
     background-color: #1F2937;
     display: flex;
