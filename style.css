@@ -35,7 +35,6 @@ body {
     padding-right: 200px;
     padding-top: 100px;
     padding-bottom: 100px;
-    /* gap: 40px; */
 }
 
 .thick-header-main-text {
@@ -74,4 +73,13 @@ body {
     padding: 100px;
     padding-left: 150px;
     padding-right: 150px;
+}
+
+.information-header {
+    display: flex;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    justify-content: center;
+    padding: 40px;
 }
