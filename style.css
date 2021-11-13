@@ -83,3 +83,11 @@ body {
     justify-content: center;
     padding: 40px;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-self: flex-end;
+    background-color: #1F2937;
+    color: #f9faf8d5;
+}
