@@ -91,3 +91,13 @@ body {
     background-color: #1F2937;
     color: #f9faf8d5;
 }
+
+.bottom-white-container {
+    display: flex;
+    justify-content: center;
+    border: solid orange;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
