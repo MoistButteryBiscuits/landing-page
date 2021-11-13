@@ -101,3 +101,16 @@ body {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+.blue-cta {
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.blue-cta p {
+    margin: 0; 
+}
