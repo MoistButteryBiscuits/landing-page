@@ -95,7 +95,6 @@ body {
 .bottom-white-container {
     display: flex;
     justify-content: center;
-    border: solid orange;
     padding-left: 200px;
     padding-right: 200px;
     padding-top: 50px;
@@ -109,8 +108,28 @@ body {
     padding-right: 200px;
     padding-top: 50px;
     padding-bottom: 50px;
+    color: white;
 }
 
 .blue-cta p {
     margin: 0; 
 }
+
+.bottom-signup-button {
+    border: solid #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*--------------------------------------------------------*/
+/*next steps
+1. finish bottom white container styling with blue cta box
+2. add spacing between sign up button and cta text
+3. may need to separate items into "left and right" containers
+within blue cta box
+4. add text color, font weight and font size to blue cta box
+----------------------------------------------------------*/
