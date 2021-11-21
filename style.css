@@ -85,10 +85,12 @@
     padding: 40px;
 }
 
-.footer-container {
+.footer-container{
     display: flex;
     justify-content: center;
     align-self: flex-end;
+    padding-top: 25px;
+    padding-bottom: 25px;
     background-color: #1F2937;
     color: #f9faf8d5;
 }
