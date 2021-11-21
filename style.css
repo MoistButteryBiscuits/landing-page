@@ -1,7 +1,8 @@
 /*style.css*/
 
-body {
-    margin: 0%;
+* {
+    margin: 0;
+    border: 0;
 }
 
 .thin-header {
