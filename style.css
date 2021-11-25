@@ -173,6 +173,7 @@ body {
     align-items: flex-end;
     font-weight: bold;
     font-style: normal;
+    font-size: large;
 }
 /*this should be good based off previous made similiar feature was made*/
 .white-container-image-container {
