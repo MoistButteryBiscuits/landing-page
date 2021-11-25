@@ -27,6 +27,7 @@
     color: #f9faf8d5;
     display: flex;
     gap: 20px;
+    justify-content: space-between;
 }
 
 .thick-header {
