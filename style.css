@@ -5,6 +5,11 @@
     border: 0;
 }
 
+/*see what this does?*/
+body {
+    /* text-align: center; */
+}
+
 .thin-header {
     background-color: #1F2937;
     padding-top: 10px;
@@ -168,4 +173,39 @@
     align-items: flex-end;
     font-weight: bold;
     font-style: normal;
+}
+/*this should be good based off previous made similiar feature was made*/
+.white-container-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    gap: 50px;
+}
+
+.white-container-image {
+    max-width: 200px;
+}
+
+.placeholder {
+    /*transition to only use the border instead of background color*/
+    /* border: #3882F6; */
+    background-color: #3882F6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 150px;
+    min-height: 150px;
+}
+
+.subtext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    color: #1F2937;
 }
